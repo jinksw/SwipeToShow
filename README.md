@@ -1,6 +1,8 @@
 # SwipeToShow
 add Swipe to show function to RecyclerView
-![demo][]
+
+<img src="gifs/demo.gif" height="800" width="480"></img>
+
 ##Usage
 
 ### edit item layout for recycler view like this
@@ -63,4 +65,3 @@ recyclerView.addOnItemTouchListener(new SwipeOnItemTouchAdapter(this, recyclerVi
             }
         });
 ```
-[demo]: gifs/demo.gif
